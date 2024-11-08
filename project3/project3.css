@@ -23,7 +23,7 @@ body {
   align-items: center;
   background-color: lightblue;
   padding: 20px;
-  width: 100%;
+  width: 20000px;
   max-width: 1000px;
 }
 
@@ -51,9 +51,10 @@ body {
   border: 2px solid #0047ab;
   border-radius: 8px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  width: 240px;
-  padding: 15px;
+  width: 270px;
+  padding: 30px;
   text-align: center;
+  height: 375px;
 }
 
 .soccer-card h3 {
@@ -61,7 +62,7 @@ body {
 }
 
 .card-icon {
-  width: 50px;
+  width: 70px;
   height: auto;
   margin-bottom: 10px;
 }
@@ -70,8 +71,9 @@ body {
 .logo-section {
   display: flex;
   align-items: center;
-  gap: 30px;
-  margin: 20px 0;
+  gap: 40px;
+  margin: 20px;
+
 }
 
 .circle {
@@ -86,7 +88,7 @@ body {
   flex-wrap: wrap;
   gap: 20px;
   justify-content: center;
-  padding: 20px;
+  padding: 25px;
 }
 
 .player-card {
